@@ -4,7 +4,8 @@
 
 This tool is named Boğaziçi University Annotation Tool (BoAT). BoAT is a desktop annotation tool which is specifically designed for dependency parsing and supports the CoNLL-U format. Annotation tools are fundamental to the facilitation of the annotation process of many NLP tasks including dependency parsing. BoAT offers both tree view and table view for the dependency parse of a sentence. In the tree view, the sentence is visualized in the form of a graph. In the table view, the sentence is shown along with its default fields which are ID, FORM, LEMMA, UPOS, XPOS, FEATS, HEAD, DEPREL, DEPS, and MISC. Annotators can customize the table view according to their needs.
 
-This tool was referenced by the paper at _https://doi.org/10.1007/s10579-021-09558-0_.
+This tool was referenced by the paper:  
+Türk, U., Atmaca, F., Özateş, Ş.B. et al. Resources for Turkish dependency parsing: introducing the BOUN Treebank and the BoAT annotation tool. Lang Resources & Evaluation 56, 259–307 (2022). https://doi.org/10.1007/s10579-021-09558-0
 
 ## Installation and Running
 
