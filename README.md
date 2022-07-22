@@ -14,7 +14,7 @@ This tool easily can be built with the following instructions:
 1. Obtain the code using one of the following methods:
 * Download https://github.com/boun-tabilab-dip/Standalone-Annotation-Tool/archive/refs/heads/main.zip and unzip
 OR
-* Use git "git clone https://github.com/boun-tabilab-dip/Standalone-Annotation-Tool.git"
+* Use git `git clone https://github.com/boun-tabilab-dip/Standalone-Annotation-Tool.git`
 2. Go to the newly created directory (if using zip the directory should be 'Standalone-Annotation-Tool-main'. If using git the directory should be 'Standalone-Annotation-Tool').
-3. Install the dependencies by "pip install -r requirements.txt"
-4. Run the tool with the command "python main.py"
+3. Install the dependencies by `pip install -r requirements.txt`
+4. Run the tool with the command `python main.py`
